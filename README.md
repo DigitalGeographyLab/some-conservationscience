@@ -12,7 +12,9 @@ Alternatively, you can use the following BibTeX code to import the reference to 
     title = "Social media data for conservation science: a methodological overview",
     year = "2019",
     journal = "Biological Conservation",
-    doi = "XXX"
+    doi = "10.1016/j.biocon.2019.01.023",
+    volume = "233",
+    pages = "298-315"
     }
 ```
 
